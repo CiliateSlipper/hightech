@@ -396,6 +396,10 @@
     input[type="submit"] {
       width: 100%;
     }
+
+    &.form-call {
+      width: 80%;
+    }
   }
 
   .copyright,
@@ -553,6 +557,11 @@
 
   .form-request {
     width: 100%;
+
+    &.form-call {
+      padding: 20px;
+      width: 80%;
+    }
   }
 
   .top-footer {

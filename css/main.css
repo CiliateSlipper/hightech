@@ -4236,6 +4236,9 @@ footer {
   .form-request input[type="submit"] {
     width: 100%;
   }
+  .form-request.form-call {
+    width: 80%;
+  }
 
   .copyright,
   .development {
@@ -4378,6 +4381,10 @@ footer {
 
   .form-request {
     width: 100%;
+  }
+  .form-request.form-call {
+    padding: 20px;
+    width: 80%;
   }
 
   .top-footer {
